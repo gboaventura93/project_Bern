@@ -7,8 +7,6 @@
   <img src="https://i.ibb.co/B6bHMh4/bern-stadt.jpg">
 </p>
 
-
-
 # Project Overview
 The City of Bern, also known as Berne, is the de facto capital of Switzerland. As of 2022, it has a population of approximately 144 447 inhabitants. While Bern is not the largest city in Switzerland, it ranks fifth in terms of population, following Zürich, Geneva, Basel, and Lausanne. 
 The goal of this project is to analyze historical data from 1941 to the present day for the city of Bern, Switzerland, and to forecast potential future changes in various elements.
