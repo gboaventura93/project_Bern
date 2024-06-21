@@ -20,7 +20,7 @@ I accessed the [Open Government Data (OGD) portal](https://www.bern.ch/open-gove
 - **Forecasting**: Utilize the historical data to predict future trends in these areas, providing insights into potential future developments in Bern.
 
 # First Insights
-## Overall Population:
+## Overall Population
 - Maximum: In 1965, the population peaked at 163,084 inhabitants.
 - Minimum: In 1999, the population declined to 126,467 inhabitants.
 1. Natives (Swiss Citizens):
