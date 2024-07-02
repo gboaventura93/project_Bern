@@ -36,3 +36,11 @@ I accessed the [Open Government Data (OGD) portal](https://www.bern.ch/open-gove
 - By the last analyzed year (2022), the immigrant population had increased significantly to 35,436.
 
 ![](https://i.ibb.co/T488hyn/graphics.jpg)
+![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/migrations.png)
+
+![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/birth_death.png)
+
+![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/marital_statics.png)
+
+![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/heatmap.png)
+
