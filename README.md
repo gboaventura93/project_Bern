@@ -52,7 +52,14 @@ II. **1972-2008**: Deaths > Births. The highest death rate was around 1992, with
 III. **2008-2022**: Births > Deaths. Births have been increasing while deaths have been decreasing, except around 2012, when they were equal. <br/>
 These trends show a direct relationship between population changes and the birth-to-death ratio. The population decline after 1965 can likely be explained by the second phase, where deaths outnumbered births.
 
-4. Heatmap City of Bern
+4. Marriges and Divorces
+![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/marital_statistics.png) <br/> 
+In the City of Bern, marriages have consistently outnumbered divorces over the analyzed period. However, there's a notable change around 1970. Before 1970, marriages averaged over 1400 per year while divorces were around 200. After 1970, the average number of marriages decreased to around 800 per year, while divorces increased slightly to around 400 per year. <br/> 
+This graph can be divided into two distinct periods, with 1970 as the breakpoint: <br/> 
+I. **Before 1970**: Marriages were 7 times more frequent than divorces.<br/> 
+II. **After 1970**: Marriages were only 2 times more frequent than divorces.
+
+6. Heatmap City of Bern
 ![](https://raw.githubusercontent.com/gboaventura93/Project_Bern/main/graphics/heatmap.png) <br/>
 This graph illustrates the correlation between the analyzed variables, where values close to one indicate a strong relationship, and values close to zero indicate a weak relationship. Notably, there is a high correlation between arrivals and departures (0.98), and between total population and arrivals (0.95). Conversely, some variables have a negative correlation, such as marriages and immigrants (-0.78) or unemployment and natives (-0.84). <br/>
 These correlations are valuable not just for comparison, but also for developing projects and applying machine learning techniques to leverage these relationships effectively.
